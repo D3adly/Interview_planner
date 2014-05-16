@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Interviewplanner.iml" filepath="$PROJECT_DIR$/Interviewplanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jseek/Jseek.iml" filepath="$PROJECT_DIR$/Jseek/Jseek.iml" />
+    </modules>
+  </component>
+</project>
+
